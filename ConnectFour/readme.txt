@@ -6,7 +6,7 @@ Connect Four 2-player (remote connection) game
 DEMONSTRATION
 To see a 2-minute YouTube video explaining and demonstrating this program, follow this link:
 
-
+  
 CONTENTS
 This program is fully functioning and is comprised of:
 “connectfour.c”,
