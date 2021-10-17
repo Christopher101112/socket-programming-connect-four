@@ -4,7 +4,7 @@ Connect Four 2-player (remote connection) game
 
 
 DEMONSTRATION
-To see a 2-minute YouTube video explaining and demonstrating this program, follow this link:
+To see a 2-minute YouTube video explaining and demonstrating this program, follow this link: https://youtu.be/cjZ8hsKbgHA 
 
   
 CONTENTS
